@@ -11,6 +11,9 @@
 /* for example, changing 1 to 2 would make left panel twice as big as right */
 .i-left{
     flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -22,4 +25,50 @@
 /* add padding to the wrapper */
 .i-left-wrapper{
     padding: 50px;
+    height: 50%;
+    background-color: aquamarine;
+}
+
+
+.i-intro{
+    font-size: 30px;
+    font-weight: 300;
+
+}
+
+.i-name {
+    font-size: 60px;
+}
+
+.i-title{
+    height: 50px;
+    overflow: hidden;
+}
+
+.i-title-wrapper {
+    height: 100%;
+    /* might wanna learn more about animation, transition */
+    animation: move 10s ease-in-out infinite alternate;
+}
+
+/* define animation move */
+/* we currently have 4 hidden items, so we are going divide the panel equally */
+/* fancy animation wow */
+@keyframes move {
+    25%{transform: translateY(-50px);}
+    50%{transform: translateY(-100px);}
+    75%{transform: translateY(-150px);}
+    100%{transform: translateY(-300px);}
+
+    
+}
+
+.i-title-item {
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    /* color: blueviolet; */
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
 }

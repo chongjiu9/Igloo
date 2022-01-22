@@ -1,0 +1,20 @@
+.i{
+    display: flex;
+    /* 50vh, background will fill half of the website*/
+    height: 100vh;
+    /* background-color: aqua; */
+
+
+}
+
+/* change this number to decide how big you want the left or right panel to be */
+/* for example, changing 1 to 2 would make left panel twice as big as right */
+.i-left{
+    flex: 1;
+
+}
+
+.i-right{
+    flex: 1;
+
+}

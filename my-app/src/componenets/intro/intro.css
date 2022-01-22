@@ -19,6 +19,9 @@
 
 .i-right{
     flex: 1;
+    /* need to be relative cuz child i-bg 
+    has absolute position depends on this */
+    position: relative;
 
 }
 
@@ -26,7 +29,11 @@
 .i-left-wrapper{
     padding: 50px;
     height: 50%;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
+    display: flex;
+    flex-direction: column;
+    /* add a space between each item */
+    justify-content: space-between;
 }
 
 
@@ -71,4 +78,31 @@
     /* background-color: red; */
     display: flex;
     align-items: center;
+}
+
+.i-scroll{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+}
+
+/* fit the image to the right screen */
+.i-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* so the picture shows up */
+    position: absolute;
+}
+
+.i-bg{
+    clip-path: polygon(100% 0%, 100% 53%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+    background-color: #89CFF0;
+    width: 100%;
+    height: 100%;
+    /* make image align with the clip-path */
+    position: absolute;
+    top: 0;
+    right: 0;
 }

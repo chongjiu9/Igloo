@@ -18,3 +18,8 @@
     flex: 1;
 
 }
+
+/* add padding to the wrapper */
+.i-left-wrapper{
+    padding: 50px;
+}

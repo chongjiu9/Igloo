@@ -21,7 +21,7 @@ const About = () => {
 
       {/* right division */}
       <div className="a-right">
-        
+
       <h1 className="a-title">About Us</h1>
         <p className="a-sub">
         <span class="bolded">We are four women from four different departments @ University of Washington.</span>
@@ -30,13 +30,13 @@ const About = () => {
       <div className="a-desc">
         <p>
         <span class="bolded">What brings us together?</span> Well, other than being sorority sisters, 
-            is our love for a good, clean, universal, and always-stocked-with-menstrual-product bathroom. 
+            is our love for a good, clean, universal, and always-stocked-with-menstrual-products bathroom. 
             The problem is, not every building on campus has great bathrooms like the Bill and Melinda Gates Center. 
             So here we are, making your restroom experience at UW be <span class="bolded">boundless</span>!
         </p>
         <p>
-        <span class="bolded">Why are we here?</span> Changing social standards call for menstrual product access, 
-        accommodate disabilities, and hold organizations responsible for maintaining restroom hygiene. We want to 
+        <span class="bolded">Why are we here?</span> Changing social standards calls for menstrual products access, 
+        disability accommodation, and hold organizations responsible for maintaining restroom hygiene. We want to 
         help address these issues!
 
         </p>

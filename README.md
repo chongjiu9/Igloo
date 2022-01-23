@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# To view our [website](https://er9966.github.io/Igloo/) hosted on github pages
+
+# To set up project locally on your environment
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

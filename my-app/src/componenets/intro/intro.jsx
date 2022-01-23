@@ -9,16 +9,16 @@ const Intro = () => {
 
            {/* wrapper of website intro name */}
           <div className="i-left-wrapper">
-              <h2 className='i-intro'>Hello, My name is</h2>
+              <h2 className='i-intro'>Hello World, my name is</h2>
               <h1 className='i-name'>Igloo</h1>
               <div className="i-title">
                   {/* wrapper is used for animation */}
                   <div className="i-title-wrapper">
-                      <div className="i-title-item">Loacte nearby restrooms</div>
-                      <div className="i-title-item">Filter restroom features</div>
+                      <div className="i-title-item">Loacte Nearby Restrooms</div>
+                      <div className="i-title-item">Filter Restroom Features</div>
                       <div className="i-title-item">Crowdsource Rating</div>
-                      <div className="i-title-item">Check feminine product availability </div>
-                      <div className="i-title-item">Find universal restrooms</div>
+                      <div className="i-title-item">Check Menstral Product Availability </div>
+                      <div className="i-title-item">Find Universal Restrooms</div>
                   </div>
               </div>
 

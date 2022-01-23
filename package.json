@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-figma-embed": "^1.0.1",
+    "react-scrollbar": "^0.5.6"
+  }
+}

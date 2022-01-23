@@ -1,0 +1,26 @@
+
+.fig-div{
+    height: 100vh;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-radius: 30px;
+    background-color: #EAD9CF;
+
+}
+
+.f-intro{
+    position:absolute;
+    top:0;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.sc{
+    position: absolute;
+    bottom: 0px;
+}

@@ -2,7 +2,8 @@
 import './App.css';
 import Intro from './componenets/intro/intro';
 import About from './componenets/about/About';
-;
+import Figma from './componenets/figma/Figma';
+
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div>
       <Intro/>
       <About/>
+      <Figma/>
  
     </div>
   );

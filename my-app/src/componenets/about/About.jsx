@@ -27,7 +27,7 @@ const About = () => {
         </p>
         <p className="a-desc">
             What brings us together, well, other than being sorority sisters, 
-            is our love for a good, clean, universal, and always-stocked-with-feminime-product bathroom. 
+            is our love for a good, clean, universal, and always-stocked-with-menstral-product bathroom. 
             The problem is, not every building on campus has great bathrooms like the Bill and Melinda Gates Center. 
             So here we are, making your restroom experience at UW be <span class="bolded">boundless</span>!
         </p>

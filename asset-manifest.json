@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Igloo/static/css/main.829717e7.css",
-    "main.js": "/Igloo/static/js/main.05fd0903.js",
+    "main.css": "/Igloo/static/css/main.a3dd6f7e.css",
+    "main.js": "/Igloo/static/js/main.aa11838d.js",
     "static/js/787.28cb0dcd.chunk.js": "/Igloo/static/js/787.28cb0dcd.chunk.js",
-    "static/media/iphone.png": "/Igloo/static/media/iphone.7dcf66a11cf4c7bb87b0.png",
+    "static/media/iphone.png": "/Igloo/static/media/iphone.68fa223c9b3f2922cb1e.png",
+    "static/media/1.jpeg": "/Igloo/static/media/1.d4b33172a74db00712cf.jpeg",
     "index.html": "/Igloo/index.html",
-    "main.829717e7.css.map": "/Igloo/static/css/main.829717e7.css.map",
-    "main.05fd0903.js.map": "/Igloo/static/js/main.05fd0903.js.map",
+    "main.a3dd6f7e.css.map": "/Igloo/static/css/main.a3dd6f7e.css.map",
+    "main.aa11838d.js.map": "/Igloo/static/js/main.aa11838d.js.map",
     "787.28cb0dcd.chunk.js.map": "/Igloo/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.829717e7.css",
-    "static/js/main.05fd0903.js"
+    "static/css/main.a3dd6f7e.css",
+    "static/js/main.aa11838d.js"
   ]
 }

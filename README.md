@@ -1,4 +1,13 @@
-# To view our [website](https://er9966.github.io/Igloo/) hosted on github pages
+# To view our [website](https://er9966.github.io/Igloo/), hosted on github pages
+
+Thank you for stopping by our website! Thiw website is created with [Lama Dev's](https://www.youtube.com/channel/UCOxWrX5MIdXIeRNaXC3sqIg) amazing website tutotial. Make sure to check him out!
+
+Without [Jackie Lu](https://www.linkedin.com/in/jacqueline-lu18/), [Kayleen Garcias](https://www.linkedin.com/in/kayleen-garcia/), and [Helen Gu](https://www.linkedin.com/in/helen-gu-0b278a1b8/), Igloo would not exist. Big thank you to my best friends who put up with my craziness, sisters who said "oh wow that's so cool" to a 
+restroom app idea, and people who I lay on the floor & have long conversations at 2am with.
+
+I love you guys. And I love our restroom app.
+
+-CJ
 
 # To set up project locally on your environment
 ## Getting Started with Create React App

@@ -16,13 +16,14 @@
 
 .a-right{
     flex: 1;
+    right: 3%;
+    position: relative;
 }
 
 .a-card.bg{
     position: absolute;
     top: 50px;
-    left: 50px;
-    background-color: #A2CAC0;;
+    left: 80px;
 }
 
 .a-card{
@@ -31,6 +32,7 @@
     border-radius: 30px;
     position: relative;
     overflow: hidden;
+    left: 30px;
 
 }
 
@@ -52,4 +54,5 @@
 
 .a-desc{
     font-weight: 300;
+    right: 10%;
 }

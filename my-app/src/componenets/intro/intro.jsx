@@ -17,7 +17,7 @@ const Intro = () => {
                       <div className="i-title-item">Loacte Nearby Restrooms</div>
                       <div className="i-title-item">Filter Restroom Features</div>
                       <div className="i-title-item">Crowdsource Rating</div>
-                      <div className="i-title-item">Check Menstral Product Availability </div>
+                      <div className="i-title-item">Check Menstrual Product Availability </div>
                       <div className="i-title-item">Find Universal Restrooms</div>
                   </div>
               </div>
@@ -25,7 +25,7 @@ const Intro = () => {
               {/* insert description here */}
               <p className="i-desc">
                 Elevate an inclusive restroom experience, in light of changing cultural standards, 
-                that all individuals can safely access.
+                that all individuals can safely access. 
                </p>
           </div>
 

@@ -7,6 +7,9 @@ restroom app idea, and people who I lay on the floor & have long conversations a
 
 I love you guys. And I love our restroom app.
 
+Some day, I hope every bathroom on campus is as clean as the ones at the Gates Center, as stocked-up-with 
+menstral-products as the Burke Museum, and that they are universal, safe, and accessible for all.
+
 -CJ
 
 # To set up project locally on your environment

@@ -10,7 +10,7 @@ const Figma = () => {
 
         <div className="sc">
             <p>Shout out to 
-                <a href='https://www.youtube.com/channel/UCOxWrX5MIdXIeRNaXC3sqIg'> Lama Dev's </a> amazing website tutotial! | <a href='https://github.com/er9966/Igloo'>Our Github Repo </a>
+                <a href='https://www.youtube.com/channel/UCOxWrX5MIdXIeRNaXC3sqIg'> Lama Dev's </a> amazing website tutorial! | <a href='https://github.com/er9966/Igloo'>Our Github Repo </a>
                 </p>
         </div>
 

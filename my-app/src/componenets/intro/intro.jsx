@@ -24,7 +24,7 @@ const Intro = () => {
 
               {/* insert description here */}
               <p className="i-desc">
-                Elevate an inclusive restroom experience, in light of changing cultural standards, 
+                Our mission is to elevate an inclusive restroom experience, in light of changing cultural standards, 
                 that all individuals can safely access. 
                </p>
           </div>

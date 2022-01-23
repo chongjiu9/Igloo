@@ -1,4 +1,4 @@
-# To view our [website](https://er9966.github.io/Igloo/), hosted on github pages
+# To view our [website](https://er9966.github.io/Igloo/) hosted on github pages
 
 Thank you for stopping by our website! Thiw website is created with [Lama Dev's](https://www.youtube.com/channel/UCOxWrX5MIdXIeRNaXC3sqIg) amazing website tutotial. Make sure to check him out!
 

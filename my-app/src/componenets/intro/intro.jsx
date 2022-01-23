@@ -14,19 +14,18 @@ const Intro = () => {
               <div className="i-title">
                   {/* wrapper is used for animation */}
                   <div className="i-title-wrapper">
-                      <div className="i-title-item">Bathroom</div>
-                      <div className="i-title-item">User rating</div>
-                      <div className="i-title-item">Easy to use</div>
-                      <div className="i-title-item">Place holder</div>
-                      <div className="i-title-item">Place holder</div>
+                      <div className="i-title-item">Loacte nearby restrooms</div>
+                      <div className="i-title-item">Filter restroom features</div>
+                      <div className="i-title-item">Crowdsource Rating</div>
+                      <div className="i-title-item">Check feminine product availability </div>
+                      <div className="i-title-item">Find universal restrooms</div>
                   </div>
               </div>
 
               {/* insert description here */}
               <p className="i-desc">
-                  I help people locate bathrooms, rate bathrooms, find out what's 
-                  in a bathroom and all the good stuff. Here's more place holder text:
-                  blah blah blah blah blah ahahah hahahah ahahahahhahahhhhhhh yayayayayayayyaya
+                Elevate an inclusive restroom experience, in light of changing cultural standards, 
+                that all individuals can safely access.
                </p>
           </div>
 

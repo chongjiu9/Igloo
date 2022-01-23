@@ -21,16 +21,15 @@ const About = () => {
 
       {/* right division */}
       <div className="a-right">
-      <h1 className="a-title">About Me</h1>
+      <h1 className="a-title">About Us</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+        <span class="bolded">We are four women from four different departments @ University of Washington.</span>
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+            What brings us together, well, other than being sorority sisters, 
+            is our love for a good, clean, universal, and always-stocked-with-feminime-product bathroom. 
+            The problem is, not every building on campus has great bathrooms like the Bill and Melinda Gates Center. 
+            So here we are, making your restroom experience at UW be <span class="bolded">boundless</span>!
         </p>
 
 
